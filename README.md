@@ -1,2 +1,15 @@
-# Guru99-Banking-Project
-This repository contains detailed manual test cases for the Guru99 Banking Project, covering Fund Transfer, Mini Statement, and Balance Inquiry functionalities. Each test case includes test steps, expected results, test data, and preconditions to ensure thorough testing and validation of the system.
+# Guru99 Banking Project - Test Cases
+
+## 📌 Overview
+This repository contains **manual test cases** for the **Guru99 Banking Project**, covering the following functionalities:
+
+1. **Fund Transfer** – Test cases for transferring funds as a **Customer**.
+2. **Mini Statement** – Test cases for retrieving **last 5 transactions**.
+3. **Balance Inquiry** – Test cases for checking account balance.
+
+Each test case includes:
+✅ Test Scenario  
+✅ Pre-conditions  
+✅ Test Data  
+✅ Test Steps  
+✅ Expected Results  
